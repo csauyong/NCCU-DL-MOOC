@@ -1,8 +1,7 @@
-# Project
-Repository for structured project
-## Aim
-Despite being just a student, I would like to do some structured coding. Therefore, I would search online for some projects. I would also post some of my graded academic assignments here.
-## Languages
-Languages in this repo vary based on the the nature of projects.
-* [X] Python
-* [X] C
+# NCCU Deep Learning 
+This is a repo for storing course outcomes of this NCCU online course about deep learning. In this course, I learnt:
+* Basics of Jupyter Notebook
+* Types of neural network
+* How to build basic CNN and Feed-forward NN for MNIST recognition
+
+The materials uploaded are adapted from the notes prepared by the instructor, which was originally in Chinese.
